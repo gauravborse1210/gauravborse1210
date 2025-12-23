@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫About Me:<br><br>Hi there 👋<br><br>Nice meeting you, i'm Gaurav!<br><br>💻 I'm recently graduate in Computer Engineering<br>💬 Ask me about Web development related stuff<br>🔎 How to reach me: Linkedin - @Gaurav Borse<br>😀 Pronouns: He/His<br>⚡Fun fact: If I am not coding then i am probably playing games with my friends
+<br><br>Hi there 👋<br><br>Nice meeting you, i'm Gaurav!<br><br>💻 I'm recently graduate in Computer Engineering<br>💬 Ask me about Web development related stuff<br>🔎 How to reach me: Linkedin - @Gaurav Borse<br>😀 Pronouns: He/His<br>⚡Fun fact: If I am not coding then i am probably playing games with my friends
 
 
 
